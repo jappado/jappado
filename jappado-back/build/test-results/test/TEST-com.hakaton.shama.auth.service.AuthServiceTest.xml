@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hakaton.shama.auth.service.AuthServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-02-12T12:25:17" hostname="seo.local" time="0.484">
+  <properties/>
+  <testcase name="회원가입 성공" classname="com.hakaton.shama.auth.service.AuthServiceTest" time="0.477"/>
+  <testcase name="로그인 실패: 유저 없음" classname="com.hakaton.shama.auth.service.AuthServiceTest" time="0.003"/>
+  <testcase name="로그인 성공" classname="com.hakaton.shama.auth.service.AuthServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
